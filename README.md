@@ -1,2 +1,3 @@
 # Data-Types
-Assignment on Data Type especially on strings with a huge focus on methods.
+Assignment on Data Type
+Third week assignment with Kadatemy on Variables, Strings.
